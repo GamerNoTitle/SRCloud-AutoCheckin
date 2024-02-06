@@ -1,2 +1,3 @@
 requests
 sentry_sdk
+pyyaml
