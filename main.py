@@ -91,7 +91,7 @@ if __name__ == '__main__':
             print(f'当前登录已过期，请重新登陆！返回为：{wallet.text}')
         else:
             print(
-                f"你当前拥有免费时长 {json.loads(wallet.text)['data']['free_time']['free_time']} 分钟，畅玩卡状态为 {json.loads(wallet.text)['data']['play_card']['short_msg']}，拥有米云币 {json.loads(wallet.text)['data']['coin']['coin_num']} 枚")
+                f"你当前拥有免费时长 {json.loads(wallet.text)['data']['free_time']['free_time']} 分钟，畅玩卡状态为 {json.loads(wallet.text)['data']['play_card']['short_msg']}，拥有星云币 {json.loads(wallet.text)['data']['coin']['coin_num']} 枚")
             announcement = r.get(AnnouncementURL, headers=headers, timeout=60)
             print(f'获取到公告列表：{json.loads(announcement.text)["data"]}')
             res = r.get(NotificationURL, headers=headers, timeout=60)
