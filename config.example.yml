@@ -21,7 +21,7 @@ accounts:
     # devicemodel: 手机抓的填抓出来的手机型号，大概为手机厂商+上面的deviceid，如红米K40为Xiaomi M2012K11AC
     # 如果是网页版抓的，填Unknown
     devicemodel: 
-    # appid: 手机抓的固定填1953439974，网页版抓的留空
+    # appid: 手机抓的固定填1953445976，网页版抓的留空
     appid: 
   # 第二个账号，不需要的话把下面删掉，如果需要更多就在下面再加
   - token:
@@ -41,5 +41,5 @@ accounts:
     # devicemodel: 手机抓的填抓出来的手机型号，大概为手机厂商+上面的deviceid，如红米K40为Xiaomi M2012K11AC
     # 如果是网页版抓的，填Unknown
     devicemodel: 
-    # appid: 手机抓的固定填1953439974，网页版抓的留空
+    # appid: 手机抓的固定填1953445976，网页版抓的留空
     appid: 
