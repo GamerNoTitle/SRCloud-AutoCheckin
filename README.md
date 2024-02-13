@@ -2,6 +2,9 @@
 
 ![SRCloud-AutoCheckin](https://socialify.git.ci/GamerNoTitle/SRCloud-AutoCheckin/image?forks=1&language=1&name=1&owner=1&stargazers=1&theme=Light)
 
+> [!IMPORTANT]
+> ⚠️ 截止至2024年2月13日，云星穹铁道并未开启签到领取15分钟时长的设定，所以你可以在云铁开了此功能后再进行部署
+
 [云·星穹铁道 (mihoyo.com)](https://sr.mihoyo.com/cloud/#/)自动签到脚本
 
 **⚠️请不要进行宣传，谢谢！一旦发现宣传就删库跑路！使用过程中如果出现bug可能会使用您的日志进行错误追踪**
