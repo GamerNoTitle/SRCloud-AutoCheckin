@@ -5,6 +5,13 @@
 > [!IMPORTANT]
 > ⚠️ 截止至2024年2月13日，云星穹铁道并未开启签到领取15分钟时长的设定，所以你可以在云铁开了此功能后再进行部署
 > 
+> 2024.5.30 更新：云铁的时长是更新送600分钟，跟云原完全不一样，理论上你不需要此脚本来拿时长，所以本仓库将归档，后期云铁时长规则有变的时候，会取消归档并更新，感谢大家的支持
+>
+> 催更通道：
+> 
+> - [GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)
+> - Telegram [@PaffCreamPMbot](https://t.me/@PaffCreamPMbot)
+>
 > 因为☁️铁跟☁️原的整个逻辑是一样的，所以我就先做了，可以不着急部署的ヾ(๑╹ヮ╹๑)ﾉ”
 
 [云·星穹铁道 (mihoyo.com)](https://sr.mihoyo.com/cloud/#/)自动签到脚本
